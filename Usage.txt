@@ -1,0 +1,9 @@
+﻿Usage:
+
+Build the solution.
+Take the .exe file from bin folder.
+Drop the .exe file into the folder where the image you want to use for your app logos reside.
+Run the .exe file and type in the image name.
+Look in the new scaled folder in the same directory you stand in.
+
+Enjoy!
